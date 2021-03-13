@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasureConverter", "MeasureConverter.csproj", "{23645E7F-8822-4C2E-8114-1907F63865C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23645E7F-8822-4C2E-8114-1907F63865C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23645E7F-8822-4C2E-8114-1907F63865C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23645E7F-8822-4C2E-8114-1907F63865C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23645E7F-8822-4C2E-8114-1907F63865C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F1275A-1850-4785-85D7-880E4F35C326}
+	EndGlobalSection
+EndGlobal
